@@ -1,6 +1,6 @@
 ---
-post_title: 'Post Title'
-layout: post_type_probably_page
-published: true_or_false
+post_title: Post Title
+layout: page
+published: true
 ---
 Post goes here.
