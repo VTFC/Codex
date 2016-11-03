@@ -10,7 +10,8 @@ published: true
 title:
   - Operating Manual
 ---
-_Last modified Nov 2, 2016 (see [GitHub](https://github.com/VTFC/Codex))_
+<em>Last modified Nov 2, 2016 (see <a href="https://github.com/VTFC/Codex">GitHub</a>)</em>
 
-## Why We Exist
+<h2>Why We Exist</h2>
+
 We believe in the future of commerce.
