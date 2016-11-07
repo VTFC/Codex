@@ -1,6 +1,8 @@
 ---
 ID: 11
-post_title: How we would do a company update
+post_title: >
+  How we would do a company update
+  Bungalow
 author: vtfcp2
 post_date: 2016-11-07 20:30:41
 post_excerpt: ""
