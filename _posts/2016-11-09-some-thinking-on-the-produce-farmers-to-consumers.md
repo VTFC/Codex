@@ -11,6 +11,7 @@ published: true
 ---
 Some thinking on the produce / farmers to consumers market. Sent as a response to FindVeggies.
 
+
 Hey man,
 
 Sorry for my slowness.
